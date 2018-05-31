@@ -5,6 +5,10 @@ layout: default
 # Über die CodeWeek
 Die Europe Code Week  ist eine europaweite Initiative, gestartet von den Young Advisors und den Digital Champions der früheren EU-Kommissarin Neelie Kroes im Jahr 2013. Sie findet heuer von 6.-21. Oktober 2018 statt.
 
+[CodeWeek Events in Österreich anzeigen](http://events.codeweek.eu/search/?country_code=AT&past=no) <br />
+[neuen Event eintragen](http://events.codeweek.eu/add/)
+
+
 ## Die Ziele
 *   Förderung von Jugendlichen, Kindern und Frauen, damit diese die immer wichtiger werdende Kulturtechnik des Programmierens erlernen.
 *   Bewusstsein schaffen auf allen europäischen und nationalen Ebenen
