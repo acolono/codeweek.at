@@ -5,6 +5,8 @@ layout: default
 # CodeWeek ParkTour 2018
 Bei der ParkTour geht es darum Kindern und Jugendlichen einen niederschwelligen Zugang zu den Themen Programmierung, Robotik und Digitalisierung zu ermöglichen.
 
+![Image](https://github.com/acolono/codeweek.at/blob/master/parktour_sm-no-year.jpg)
+
 ## Programmieren in Wiener Parks!
  
 Zusammen mit diversen österreichischen Initiativen bietet CodeWeek.at in der Woche vom **8. Oktober 2018** in Wiener Parks gratis Workshops rund um Programmierung, Robotik und Digitalisierung an. Das Ziel: Kinder und Jugendliche zwischen 7 und 17 für das Thema Coding zu begeistern.
