@@ -3,18 +3,30 @@ layout: default
 ---
 
 # Über die CodeWeek
-Die Europe Code Week  ist eine europaweite Initiative, gestartet von den Young Advisors und den Digital Champions der früheren EU-Kommissarin Neelie Kroes im Jahr 2013. Sie findet heuer von 6.-21. Oktober 2018 statt.
+Die [Europe Code Week](http://www.codeweek.eu/) ist eine europaweite Initiative, gestartet von den Young Advisors und den Digital Champions der früheren EU-Kommissarin Neelie Kroes im Jahr 2013. Die CodeWeek findet seither jährlich im Oktober statt.
 
-[CodeWeek Events in Österreich anzeigen](http://events.codeweek.eu/search/?country_code=AT&past=no) <br />
-[neuen Event eintragen](http://events.codeweek.eu/add/)
+## CodeWeek 2018 in Österreich
 
+Heuer findet die CodeWeek von **6.-21. Oktober 2018** statt:
+
+- [CodeWeek ParkTour in Wien](https://github.com/acolono/codeweek.at/blob/master/parktour_2018.md)
+- [Alle CodeWeek 2018 Events in Österreich anzeigen](http://events.codeweek.eu/search/?country_code=AT&past=no)
+- [Neuen CodeWeek 2018 Event eintragen](http://events.codeweek.eu/add/)
 
 ## Die Ziele
-*   Förderung von Jugendlichen, Kindern und Frauen, damit diese die immer wichtiger werdende Kulturtechnik des Programmierens erlernen.
-*   Bewusstsein schaffen auf allen europäischen und nationalen Ebenen
-*   Zusammenarbeit zwischen bereits existierenden Initiativen und Gruppen in dem Bereich fördern
-*   Teilen von Beispielen aus der Praxis
-*   Organisation von Veranstaltungen und Workshops in allen EU-Mitgliedsländern zum Thema Programmieren
+*   **Förderung** von Jugendlichen, Kindern und Frauen, damit diese die immer wichtiger werdende Kulturtechnik des Programmierens erlernen.
+*   **Bewusstsein** schaffen auf allen europäischen und nationalen Ebenen
+*   **Zusammenarbeit** zwischen bereits existierenden Initiativen und Gruppen in dem Bereich fördern
+*   **Teilen** von Beispielen aus der Praxis
+*   **Organisation** von Veranstaltungen und Workshops in allen EU-Mitgliedsländern zum Thema Programmieren
+
+## Die Europe CodeWeek in Zahlen
+
+- 2017: 52 Länder, 25.000 Veranstaltungen, 1.099.000 Teilnehmer_innen
+- 2016: 50 Länder, 23.000 Veranstaltungen, 968.000 Teilnehmer_innen
+- 2015: 46 Länder, 7.600 Veranstaltungen, 570.000 Teilnehmer_innen
+- 2014: 36 Länder, 4.200 Veranstaltungen, 150.000 Teilnehmer_innen
+- 2013: 26 Länder, 3.000 Veranstaltungen, 10.000 Teilnehmer_innen
 
 ## CodeWeek unterstützen
 
