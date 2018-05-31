@@ -5,7 +5,7 @@ layout: default
 # CodeWeek ParkTour 2018
 Bei der ParkTour geht es darum Kindern und Jugendlichen einen niederschwelligen Zugang zu den Themen Programmierung, Robotik und Digitalisierung zu ermöglichen.
 
-![Image](https://github.com/acolono/codeweek.at/blob/master/parktour_sm-no-year.jpg)
+![Image](parktour_sm-no-year.jpg)
 
 ## Programmieren in Wiener Parks!
  
