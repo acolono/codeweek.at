@@ -25,6 +25,7 @@ Die Europe Code Week  ist eine europaweite Initiative, gestartet von den Young A
 
 Unterstüzt wird die Codeweek Austria von ehrenamtlichen Ambassador_innen:
 
-*   Andrea Mayr-Stalder
-*   Christoph Derndorfer
-*   Nico Grienauer
+*   **Andrea Mayr-Stalder** <a href="mailto:info@codeweek.at">mail</a>, <a href="https://twitter.com/turtlestitch">tweet</a>
+
+*   **Christoph Derndorfer** <a href="mailto:christoph@derndorfer.eu">mail</a>, <a href="https://www.twitter.com/random_musings">tweet</a>
+*   **Nico Grienauer** <a href="mailto:nico@grienauer.com">mail</a>, <a href="https://www.twitter.com/grienauer">tweet</a>
