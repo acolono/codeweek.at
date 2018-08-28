@@ -3,6 +3,9 @@ layout: default
 ---
 
 # CodeWeek ParkTour 2018
+
+Gratis Workshops in Wien Parks!
+
 Bei der ParkTour geht es darum Kindern und Jugendlichen einen niederschwelligen Zugang zu den Themen Programmierung, Robotik und Digitalisierung zu ermöglichen.
 
 ![Image](parktour_med_2018.jpg)
@@ -15,7 +18,7 @@ Elektronische Medien haben als Kommunikationstools als auch Unterhaltungsinstrum
 
 Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die ParkTour ausgedacht und werden nach 2017 heuer zum zweiten Mal in einer Art Open-Air Veranstaltung einzelne Wiener Parks und Plätze besuchen um unsere Zelte dort aufzuschlagen. Als Partner haben wir die MA13 – Fachbereich Jugend, die die Vernetzung zu lokalen Jugendorgansiationen übernommen hat, logistisch – in der Event-Abwicklung, sowie Aufbau und Vernetzung – unterstützt uns das Team der A1 Telekom Austria.
 
-## Line-Up
+## Wann und Wo
 
 * Montag, 8.10. 14-17 Uhr: Karlsplatz (1040 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=VN5nRq0VHEbphFVE5NCvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002326)) mit Stationen von:
   * A1 “Internet für Alle”
