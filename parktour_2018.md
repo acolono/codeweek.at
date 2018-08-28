@@ -17,11 +17,41 @@ Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die
 
 ## Line-Up
 
-TBC
+* Montag, 8.10. 14-17 Uhr: Karlsplatz (1040 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=VN5nRq0VHEbphFVE5NCvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002326)) mit Stationen von:
+  * A1 “Internet für Alle”
+  * Bildungsserver Wien
+  * CoderDojo
+  * DaVinci Lab
+  * Wunderwuzzi
+* Dienstag, 9.10. 14-17 Uhr: Steinbauerpark (1120 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=2PpHRtto-a0XphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10010290)) mit Stationen von:
+  * A1 “Internet für Alle”
+  * Bildungsserver Wien
+  * CoderDojo
+  * OEG3D
+  * Wunderwuzzi
+* Mittwoch, 10.10. 14-17 Uhr: Kardinal-Nagl Platz (1030 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=cb2HRv1nGUbphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002296)) mit Stationen von:
+  * A1 “Internet für Alle”
+  * Bildungsserver Wien
+  * CoderDojo
+  * Spielend Programmieren
+  * Wunderwuzzi
+* Donnerstag, 11.10. 14-17 Uhr: Franklinstrasse (1210 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=mAqHRsxme0bphFVE5NCvQ-a5Rphlnqnnkur2pH4Oprw-b-b)) mit Stationen von:
+  * A1 “Internet für Alle”
+  * Bildungsserver Wien
+  * CoderDojo
+  * TechnikBasteln
+  * Wunderwuzzi
 
-## Programm Partner
+## Partner und Stationen
 
-TBC
+* [A1 “Internet für Alle”](https://a1internetfueralle.at/home/)
+* [Bildungsserver Wien](http://bildungsserver.wien)
+* [CoderDojo Wien](http://wien.coderdojo.net/)
+* [DaVinci Lab](https://www.davincilab.at/)
+* [OEG3D](https://www.oeg3d.at)
+* [Spielend Programmieren](http://spielend-programmieren.at)
+* [TechnikBasteln](http://www.technikbasteln.net/)
+* [Wunderwuzzi](http://www.wunderwuzzi.at/)
 
 ## Rückfragehinweis
 
