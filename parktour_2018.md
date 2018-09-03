@@ -47,13 +47,12 @@ Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die
 ## Partner und Stationen
 
 * [A1 “Internet für Alle”](https://a1internetfueralle.at/home/)
-* [Bildungsserver Wien](http://bildungsserver.wien)
+* [Bildungsserver Wien](http://bildungsserver.wien): "Unsere Blue Bot-Lernroboter führen dich in die Welt des Programmierens ein. Löse knifflige Aufgaben und lerne dabei Wien besser kennen."
 * [CoderDojo Wien](http://wien.coderdojo.net/)
-* [DaVinci Lab](https://www.davincilab.at/)
-* [OEG3D](https://www.oeg3d.at)
-* [Spielend Programmieren](http://spielend-programmieren.at)
-* [TechnikBasteln](http://www.technikbasteln.net/)
-* [Wunderwuzzi](http://www.wunderwuzzi.at/)
+* [OEG3D](https://www.oeg3d.at): "Bei uns kann man sein eigenes Schmuckstück am Computer erstellen, anschließend ausdurcken und so erleben, wie die Produktion der Zukunft aussehen kann."
+* [Spielend Programmieren](http://spielend-programmieren.at): "Einführung in die Computerspieleprogrammierung mit der Programmiersprache Python. Geeignet für Kinder ab 10 Jahre die bereits Erfahrung im Umgang mit der Tastatur haben. Es wird empfohlen einen eigenen USB-Stick mitzubringen, um die selbst erstellten Programme mit nach Hause nehmen zu können".
+* [TechnikBasteln](http://www.technikbasteln.net/): "Wolltest du schon immer wissen wie ein Laptop von innen aussieht? Bei uns kannst du einen zerlegen und - idealerweise - danach wieder zusammenbauen."
+* [Wunderwuzzi](http://www.wunderwuzzi.at/): "Bau dir deinen eigenen kleinen Wunderwuzzi Zahnbürsten Roboter, den du nach Hause mitnehmen kannst."
 
 ## Rückfragehinweis
 
