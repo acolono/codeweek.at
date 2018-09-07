@@ -46,7 +46,7 @@ Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die
 
 ## Partner und Stationen
 
-* [A1 “Internet für Alle”](https://a1internetfueralle.at/home/)
+* [A1 “Internet für Alle”](https://a1internetfueralle.at/home/): "Wir vermitteln dir die Grundbegriffe des Codings mit einem coolen Programmierspiel - offline ohne Computer, aber mit Verkleidungen und hohem Spaßfaktor!"
 * [Bildungsserver Wien](http://bildungsserver.wien): "Unsere Blue Bot-Lernroboter führen dich in die Welt des Programmierens ein. Löse knifflige Aufgaben und lerne dabei Wien besser kennen."
 * [CoderDojo Wien](http://wien.coderdojo.net/): "Das CoderDojo ist ein Club für Kinder und Jugendliche zwischen 8 und 17 Jahren, in dem sie Technik und Programmieren lernen können. In regelmäßigen Treffen werden verschiedene Übungen gemacht. Wenn du zwischen 8 und 17 Jahre alt bist, komm vorbei."
 * [OEG3D](https://www.oeg3d.at): "Bei uns kann man sein eigenes Schmuckstück am Computer erstellen, anschließend ausdrucken und so erleben, wie die Produktion der Zukunft aussehen kann."
