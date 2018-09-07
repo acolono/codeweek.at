@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "de-AT" }}">
   <head>
-<!-- testing a new layout -->
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
@@ -21,7 +20,16 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-
+    <nav class="menu">
+      <ul>
+        <li>
+          <a href="#Über-die-codeweek">About</a>
+        </li>
+        <li>
+          <a href="/parktour_2018.html">Parktour 2018</a>
+        </li>
+      </ul>
+    </nav>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
