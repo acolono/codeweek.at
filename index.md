@@ -12,7 +12,7 @@ Die [Europe Code Week](http://www.codeweek.eu/) ist eine europaweite Initiative,
 Heuer findet die CodeWeek von **6.-21. Oktober 2018** statt:
 
 - [CodeWeek ParkTour in Wien](parktour_2018.md)
-- [Alle CodeWeek 2018 Events in Österreich anzeigen](http://events.codeweek.eu/search/?country_code=AT&past=no)
+- [Alle CodeWeek 2018 Events in Österreich anzeigen](https://codeweek.eu/search/?q=&country_iso=AT&past=no)
 - [Neuen CodeWeek 2018 Event eintragen](http://events.codeweek.eu/add/)
 
 ## Die Ziele
