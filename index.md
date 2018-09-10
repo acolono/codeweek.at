@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Über die CodeWeek <a name="About"></a>
+<a name="About"></a>
+# Über die CodeWeek
 Die [Europe Code Week](http://www.codeweek.eu/) ist eine europaweite Initiative, gestartet von den Young Advisors und den Digital Champions der früheren EU-Kommissarin Neelie Kroes im Jahr 2013. Die CodeWeek findet seither jährlich im Oktober statt.
 
 ![Image](TWITTER-Code-Week-2018-Save-the-date-web-banner-1500x500px.jpg)
