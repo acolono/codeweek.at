@@ -26,6 +26,7 @@ Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die
   * A1 “Internet für Alle”
   * Bildungsserver Wien
   * CoderDojo
+  * Robo Wunderkind
   * Wunderwuzzi
 * Dienstag, 9.10. 14-17 Uhr: Steinbauerpark (1120 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=2PpHRtto-a0XphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10010290)) mit Stationen von:
   * A1 “Internet für Alle”
@@ -52,6 +53,7 @@ Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die
 * [Bildungsserver Wien](http://bildungsserver.wien): "Unsere Blue Bot-Lernroboter führen dich in die Welt des Programmierens ein. Löse knifflige Aufgaben und lerne dabei Wien besser kennen."
 * [CoderDojo Wien](http://wien.coderdojo.net/): "Das CoderDojo ist ein Club für Kinder und Jugendliche zwischen 8 und 17 Jahren, in dem sie Technik und Programmieren lernen können. In regelmäßigen Treffen werden verschiedene Übungen gemacht. Wenn du zwischen 8 und 17 Jahre alt bist, komm vorbei."
 * [OEG3D](https://www.oeg3d.at): "Bei uns kann man sein eigenes Schmuckstück am Computer erstellen, anschließend ausdrucken und so erleben, wie die Produktion der Zukunft aussehen kann."
+* [Robo Wunderkind](https://robowunderkind.com/de/)
 * [Spielend Programmieren](http://spielend-programmieren.at): "Einführung in die Computerspieleprogrammierung mit der Programmiersprache Python. Geeignet für Kinder ab 10 Jahre die bereits Erfahrung im Umgang mit der Tastatur haben. Es wird empfohlen einen eigenen USB-Stick mitzubringen, um die selbst erstellten Programme mit nach Hause nehmen zu können".
 * [TechnikBasteln](http://www.technikbasteln.net/): "Wolltest du schon immer wissen wie ein Laptop von innen aussieht? Bei uns kannst du einen zerlegen und - idealerweise - danach wieder zusammenbauen."
 * [Wunderwuzzi](http://www.wunderwuzzi.at/): "Bau dir deinen eigenen kleinen Wunderwuzzi Zahnbürsten Roboter, den du nach Hause mitnehmen kannst."
