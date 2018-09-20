@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# CodeWeek 2018 in Österreich
+## CodeWeek 2018 in Österreich
 
 <img align="right" width="400px" src="CodeWeek_impression.jpg">
 
@@ -19,7 +19,7 @@ Heuer findet die CodeWeek von **6.-21. Oktober 2018** statt:
 * [Hour of Code Games by Kahoot!](https://kahoot.com/explore/collections/hour-code-games-kahoot/): 3 Quizzes zu Programmiergrundlagen (auf Englisch)
 
 <a name="About"></a>
-## Über die CodeWeek
+# Über die CodeWeek
 Die [Europe Code Week](http://www.codeweek.eu/) ist eine europaweite Initiative, gestartet von den Young Advisors und den Digital Champions der früheren EU-Kommissarin Neelie Kroes im Jahr 2013. Die CodeWeek findet seither jährlich im Oktober statt.
 
 ## Die Ziele
