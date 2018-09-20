@@ -2,19 +2,25 @@
 layout: default
 ---
 
-<a name="About"></a>
-# Über die CodeWeek
-Die [Europe Code Week](http://www.codeweek.eu/) ist eine europaweite Initiative, gestartet von den Young Advisors und den Digital Champions der früheren EU-Kommissarin Neelie Kroes im Jahr 2013. Die CodeWeek findet seither jährlich im Oktober statt.
-
-![Image](TWITTER-Code-Week-2018-Save-the-date-web-banner-1500x500px.jpg)
-
-## CodeWeek 2018 in Österreich
+# CodeWeek 2018 in Österreich
 
 Heuer findet die CodeWeek von **6.-21. Oktober 2018** statt:
 
 - [CodeWeek ParkTour in Wien](parktour_2018.md)
 - [Alle CodeWeek 2018 Events in Österreich anzeigen](https://codeweek.eu/search/?q=&country_iso=AT&past=no)
 - [Neuen CodeWeek 2018 Event eintragen](http://events.codeweek.eu/add/)
+
+## Einstiegshilfen
+
+* [Catrobat](https://www.catrobat.org/de/): Eine Android App zum einfachen Erstellen Animationen, Musikvideos und Spielen
+* [CoderDojo Wien Übungen](https://wien.coderdojo.net/exercises/): Von C# über micro:bit bis zu Scratch
+* [Hour of Code Games by Kahoot!](https://kahoot.com/explore/collections/hour-code-games-kahoot/): 3 Quizzes zu Programmiergrundlagen (auf Englisch)
+
+<a name="About"></a>
+## Über die CodeWeek
+Die [Europe Code Week](http://www.codeweek.eu/) ist eine europaweite Initiative, gestartet von den Young Advisors und den Digital Champions der früheren EU-Kommissarin Neelie Kroes im Jahr 2013. Die CodeWeek findet seither jährlich im Oktober statt.
+
+<img align="right" width="400px" src="CodeWeek_impression.jpg">
 
 ## Die Ziele
 *   **Förderung** von Jugendlichen, Kindern und Frauen, damit diese die immer wichtiger werdende Kulturtechnik des Programmierens erlernen.
