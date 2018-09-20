@@ -4,6 +4,8 @@ layout: default
 
 # CodeWeek 2018 in Österreich
 
+<img align="right" width="400px" src="CodeWeek_impression.jpg">
+
 Heuer findet die CodeWeek von **6.-21. Oktober 2018** statt:
 
 - [CodeWeek ParkTour in Wien](parktour_2018.md)
@@ -19,8 +21,6 @@ Heuer findet die CodeWeek von **6.-21. Oktober 2018** statt:
 <a name="About"></a>
 ## Über die CodeWeek
 Die [Europe Code Week](http://www.codeweek.eu/) ist eine europaweite Initiative, gestartet von den Young Advisors und den Digital Champions der früheren EU-Kommissarin Neelie Kroes im Jahr 2013. Die CodeWeek findet seither jährlich im Oktober statt.
-
-<img align="right" width="400px" src="CodeWeek_impression.jpg">
 
 ## Die Ziele
 *   **Förderung** von Jugendlichen, Kindern und Frauen, damit diese die immer wichtiger werdende Kulturtechnik des Programmierens erlernen.
