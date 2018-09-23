@@ -14,8 +14,9 @@ Heuer findet die CodeWeek von **6.-21. Oktober 2018** statt:
 
 ## Einstiegshilfen
 
-* [Catrobat](https://www.catrobat.org/de/): Eine Android App zum einfachen Erstellen Animationen, Musikvideos und Spielen
+* [Scratch](https://scratch.mit.edu/): Die offizielle Website mit vielen Beispielen, Projekten und Informationen rund um Scratch
 * [CoderDojo Wien Übungen](https://wien.coderdojo.net/exercises/): Von C# über micro:bit bis zu Scratch
+* [Catrobat](https://www.catrobat.org/de/): Eine Android App zum einfachen Erstellen Animationen, Musikvideos und Spielen
 * [Hour of Code Games by Kahoot!](https://kahoot.com/explore/collections/hour-code-games-kahoot/): 3 Quizzes zu Programmiergrundlagen (auf Englisch)
 
 <a name="About"></a>
