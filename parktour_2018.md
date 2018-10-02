@@ -28,7 +28,7 @@ Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die
   * CoderDojo
   * Robo Wunderkind
   * Wunderwuzzi
-* **Dienstag, 9.10. 14-17 Uhr:** Steinbauerpark (1120 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=2PpHRtto-a0XphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10010290)) *(Schlechtwetter-Variante: TBC)* mit Stationen von:
+* **Dienstag, 9.10. 14-17 Uhr:** Steinbauerpark (1120 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=2PpHRtto-a0XphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10010290)) *(Schlechtwetter-Variante: Jugendtreffs Steinbauerpark)* mit Stationen von:
   * A1 “Internet für Alle”
   * Bildungsserver Wien
   * CoderDojo
