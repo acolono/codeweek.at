@@ -22,31 +22,26 @@ Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die
 
 ## Wann und Wo
 
-* **Montag, 8.10. 14-17 Uhr**
-Ort: Resselpark/Karlsplatz (1040 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=VN5nRq0VHEbphFVE5NCvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002326))
-(Schlechtwetter-Variante: Postaula Stiege 2, TU Wien statt.)
+* **Montag, 8.10. 14-17 Uhr:** Resselpark/Karlsplatz (1040 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=VN5nRq0VHEbphFVE5NCvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002326)) *(Schlechtwetter-Variante: Postaula Stiege 2, TU Wien)*
 Mit Stationen von:
   * A1 “Internet für Alle”
   * Bildungsserver Wien
   * CoderDojo
   * Robo Wunderkind
   * Wunderwuzzi
-* **Dienstag, 9.10. 14-17 Uhr:**
-Steinbauerpark (1120 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=2PpHRtto-a0XphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10010290)) (Schlechtwetter-Variante: TBC) mit Stationen von:
+* **Dienstag, 9.10. 14-17 Uhr:** Steinbauerpark (1120 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=2PpHRtto-a0XphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10010290)) *(Schlechtwetter-Variante: TBC)* mit Stationen von:
   * A1 “Internet für Alle”
   * Bildungsserver Wien
   * CoderDojo
   * OEG3D
   * Wunderwuzzi
-* **Mittwoch, 10.10. 14-17 Uhr:**
-Kardinal-Nagl Platz (1030 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=cb2HRv1nGUbphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002296)) (Schlechtwetter-Variante: JUVIVO 3, Erdbergstraße 101, 1030 Wien) mit Stationen von:
+* **Mittwoch, 10.10. 14-17 Uhr:** Kardinal-Nagl Platz (1030 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=cb2HRv1nGUbphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002296)) *(Schlechtwetter-Variante: JUVIVO 3, Erdbergstraße 101, 1030 Wien)* mit Stationen von:
   * A1 “Internet für Alle”
   * Bildungsserver Wien
   * CoderDojo
   * Spielend Programmieren
   * Wunderwuzzi
-* **Donnerstag, 11.10. 14-17 Uhr:**
-Franklinstrasse (1210 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=mAqHRsxme0bphFVE5NCvQ-a5Rphlnqnnkur2pH4Oprw-b-b)) (Schlechtwetter-Variante: Area 52, Eingang Freytaggasse/Wedekindgasse, 1210 Wien) mit Stationen von:
+* **Donnerstag, 11.10. 14-17 Uhr:** Franklinstrasse (1210 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=mAqHRsxme0bphFVE5NCvQ-a5Rphlnqnnkur2pH4Oprw-b-b)) *(Schlechtwetter-Variante: Area 52, Eingang Freytaggasse/Wedekindgasse, 1210 Wien)* mit Stationen von:
   * A1 “Internet für Alle”
   * Bildungsserver Wien
   * CoderDojo
