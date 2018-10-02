@@ -22,8 +22,10 @@ Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die
 
 ## Wann und Wo
 
-* **Montag, 8.10. 14-17 Uhr:**
-Resselpark/Karlsplatz (1040 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=VN5nRq0VHEbphFVE5NCvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002326)) (Bei Schlechtwetter findet die Veranstaltung in der Postaula Stiege 2, TU Wien statt.) mit Stationen von:
+* **Montag, 8.10. 14-17 Uhr**
+Ort: Resselpark/Karlsplatz (1040 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=VN5nRq0VHEbphFVE5NCvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002326))
+(Schlechtwetter-Variante: Postaula Stiege 2, TU Wien statt.)
+Mit Stationen von:
   * A1 “Internet für Alle”
   * Bildungsserver Wien
   * CoderDojo
