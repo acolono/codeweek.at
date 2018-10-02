@@ -67,6 +67,8 @@ Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die
 ## Jugendeinrichtungen / Kooperationspartner:
 
 * Area 52
+* Fairplay
+* JIM
 * Jugendtreff Steinbauerpark
 * Juvivo 3
 * karlsplatz.org
