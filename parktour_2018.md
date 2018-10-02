@@ -66,17 +66,12 @@ Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die
 
 ## Jugendeinrichtungen / Kooperationspartner:
 
-<img src="area52-logo.png">
-
-<img src="donaufeld-logo.png">
-
-<img src="juvivo3-logo.png">
-
-<img src="karlsplatz-logo.png">
-
-<img src="steinbauerpark-logo.png">
-
-<img src="tu-wien-logo.png">
+* Area 52
+* Jugendtreff Steinbauerpark
+* Juvivo 3
+* karlsplatz.org
+* Mobile Jugendarbeit Donaufeld
+* TU Wien (bei Schlechtwetter)
 
 ## Rückfragehinweis
 
