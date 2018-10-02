@@ -58,6 +58,26 @@ Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die
 * [TechnikBasteln](http://www.technikbasteln.net/): "Wolltest du schon immer wissen wie ein Laptop von innen aussieht? Bei uns kannst du einen zerlegen und - idealerweise - danach wieder zusammenbauen."
 * [Wunderwuzzi](http://www.wunderwuzzi.at/): "Bau dir deinen eigenen kleinen Wunderwuzzi Zahnbürsten Roboter, den du nach Hause mitnehmen kannst."
 
+## Sponsoring Partner
+
+[<img src="ma13-logo.png">](https://www.wien.gv.at/sozialinfo/content/en/10/InstitutionDetail.do?it_1=2099565)
+
+[<img src="meet-and-code-logo.png">](https://www.meet-and-code.org/at/de/)
+
+## Jugendeinrichtungen / Kooperationspartner:
+
+<img src="area52-logo.png">
+
+<img src="donaufeld-logo.png">
+
+<img src="juvivo3-logo.png">
+
+<img src="karlsplatz-logo.png">
+
+<img src="steinbauerpark-logo.png">
+
+<img src="tu-wien-logo.png">
+
 ## Rückfragehinweis
 
 Mag.ª Andrea Mayr-Stalder, info@codeweek.at, (Tel.: +43 699 11098878)
