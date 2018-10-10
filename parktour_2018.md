@@ -40,7 +40,7 @@ Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die
   * CoderDojo
   * Spielend Programmieren
   * Wunderwuzzi
-* **Donnerstag, 11.10. 14-17 Uhr:** Franklinstrasse (1210 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=mAqHRsxme0bphFVE5NCvQ-a5Rphlnqnnkur2pH4Oprw-b-b)) *(Schlechtwetter-Variante: Area 52, Eingang Freytaggasse/Wedekindgasse, 1210 Wien)* mit Stationen von:
+* **Donnerstag, 11.10. 14-17 Uhr:** Franklinstraße / Ecke Fahrbachgasse (1210 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=mI2FRlbUe0YR-aoFEHjjiQ-a5Rphlnqnnkur2pH4Oprw-b-b)) *(Schlechtwetter-Variante: Area 52, Eingang Freytaggasse/Wedekindgasse, 1210 Wien)* mit Stationen von:
   * A1 “Internet für Alle”
   * Bildungsserver Wien
   * CoderDojo
