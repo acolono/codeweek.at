@@ -50,3 +50,19 @@ Unterstüzt wird die Codeweek Austria von ehrenamtlichen Ambassador_innen:
 *   **Andrea Mayr-Stalder** <a href="mailto:info@codeweek.at">mail</a>, <a href="https://twitter.com/turtlestitch">tweet</a>
 *   **Christoph Derndorfer** <a href="mailto:christoph@derndorfer.eu">mail</a>, <a href="https://www.twitter.com/random_musings">tweet</a>
 *   **Nico Grienauer** <a href="mailto:nico@grienauer.com">mail</a>, <a href="https://www.twitter.com/grienauer">tweet</a>
+
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.acolono.com/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', 'www.codeweek.at']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
