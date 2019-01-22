@@ -51,7 +51,7 @@ Unterstüzt wird die Codeweek Austria von ehrenamtlichen Ambassador_innen:
 *   **Christoph Derndorfer** <a href="mailto:christoph@derndorfer.eu">mail</a>, <a href="https://www.twitter.com/random_musings">tweet</a>
 *   **Nico Grienauer** <a href="mailto:nico@grienauer.com">mail</a>, <a href="https://www.twitter.com/grienauer">tweet</a>
 
-- [Impressum/Datenschutz](impressum.md)
+[Impressum/Datenschutz](impressum.md)
 <!-- Matomo -->
 <script type="text/javascript">
   var _paq = window._paq || [];
