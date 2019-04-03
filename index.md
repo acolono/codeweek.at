@@ -6,11 +6,11 @@ layout: default
 
 <img align="right" width="400px" src="CodeWeek_impression.jpg">
 
-Heuer findet die CodeWeek von **6.-21. Oktober 2018** statt:
+Heuer findet die CodeWeek von **18.-20. Oktober 2019** statt:
 
 - [CodeWeek ParkTour in Wien](parktour_2018.md)
-- [Alle CodeWeek 2018 Events in Österreich anzeigen](https://codeweek.eu/search/?q=&country_iso=AT&past=no)
-- [Neuen CodeWeek 2018 Event eintragen](http://events.codeweek.eu/add/)
+- [Alle CodeWeek Events in Österreich anzeigen](https://codeweek.eu/search/?q=&country_iso=AT&past=no)
+- [Neuen CodeWeek Event eintragen](http://events.codeweek.eu/add/)
 
 ## Einstiegshilfen
 
@@ -32,6 +32,7 @@ Die [Europe Code Week](http://www.codeweek.eu/) ist eine europaweite Initiative,
 
 ## Die Europe CodeWeek in Zahlen
 
+- 2018: 2.700.00 Teilnehmer_innen
 - 2017: 52 Länder, 25.000 Veranstaltungen, 1.099.000 Teilnehmer_innen
 - 2016: 50 Länder, 23.000 Veranstaltungen, 968.000 Teilnehmer_innen
 - 2015: 46 Länder, 7.600 Veranstaltungen, 570.000 Teilnehmer_innen
