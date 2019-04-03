@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## CodeWeek 2018 in Österreich
+## CodeWeek 2019 in Österreich
 
 <img align="right" width="400px" src="CodeWeek_impression.jpg">
 
