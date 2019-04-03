@@ -59,7 +59,7 @@ Unterstüzt wird die Codeweek Austria von ehrenamtlichen Ambassador_innen:
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="//piwik.acolono.com/";
+    var u="//matomo.acolono.com/";
     _paq.push(['setTrackerUrl', u+'matomo.php']);
     _paq.push(['setSiteId', 'www.codeweek.at']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
