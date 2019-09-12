@@ -8,9 +8,9 @@ layout: default
 
 Heuer findet die CodeWeek von **5.-20. Oktober 2019** statt:
 
-- [CodeWeek ParkTour in Wien](parktour_2018.md)
 - [Alle CodeWeek Events in Österreich anzeigen](https://codeweek.eu/search/?q=&country_iso=AT&past=no)
 - [Neuen CodeWeek Event eintragen](http://events.codeweek.eu/add/)
+- [Auftakt: CodingDay.at](http://www.codingday.at/)
 
 ## Einstiegshilfen
 
