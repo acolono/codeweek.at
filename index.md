@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## CodeWeek 2019 in Österreich
+## CodeWeek 2020 in Österreich
 
 <img align="right" width="400px" src="CodeWeek_impression.jpg">
 
-Heuer findet die CodeWeek von **5.-20. Oktober 2019** statt:
+Heuer findet die CodeWeek von **10.-25. Oktober 2020** statt:
 
 - [Alle CodeWeek Events in Österreich anzeigen](https://codeweek.eu/search/?q=&country_iso=AT&past=no)
 - [Neuen CodeWeek Event eintragen](http://events.codeweek.eu/add/)
