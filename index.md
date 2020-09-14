@@ -10,14 +10,14 @@ Heuer findet die CodeWeek von **10.-25. Oktober 2020** statt:
 
 - [Alle CodeWeek Events in Österreich anzeigen](https://codeweek.eu/search/?q=&country_iso=AT&past=no)
 - [Neuen CodeWeek Event eintragen](http://events.codeweek.eu/add/)
-- [Auftakt: CodingDay.at](http://www.codingday.at/)
+- [CodingDay.at](http://www.codingday.at/)
 
 ## Einstiegshilfen
 
 * [Scratch](https://scratch.mit.edu/): Die offizielle Website mit vielen Beispielen, Projekten und Informationen rund um Scratch
 * [CoderDojo Wien Übungen](https://wien.coderdojo.net/exercises/): Von C# über micro:bit bis zu Scratch
-* [Catrobat](https://www.catrobat.org/de/): Eine Android App zum einfachen Erstellen Animationen, Musikvideos und Spielen
 * [Hour of Code Games by Kahoot!](https://kahoot.com/explore/collections/hour-code-games-kahoot/): 3 Quizzes zu Programmiergrundlagen (auf Englisch)
+* [Einführung in Scratch (TU Wien Informatik)](https://www.ada.wien/live-webinar-scratch/): Kostenlose Webinare
 
 <a name="About"></a>
 # Über die CodeWeek
