@@ -18,6 +18,8 @@ Heuer findet die CodeWeek von **10.-25. Oktober 2020** statt:
 * [CoderDojo Wien Übungen](https://wien.coderdojo.net/exercises/): Von C# über micro:bit bis zu Scratch
 * [Hour of Code Games by Kahoot!](https://kahoot.com/explore/collections/hour-code-games-kahoot/): 3 Quizzes zu Programmiergrundlagen (auf Englisch)
 * [Einführung in Scratch (TU Wien Informatik)](https://www.ada.wien/live-webinar-scratch/): Kostenlose Webinare
+* [Programmieren mit Snap!](https://open.sap.com/courses/snap1-1-de/): Online Kurs für Einsteiger
+* [Build Your Own Snap! Workshop](https://open.sap.com/courses/snap1-ttt): Ein Kurs mit einer Snap! Projektsammlung und Workshop Informationen.
 
 <a name="About"></a>
 # Über die CodeWeek
