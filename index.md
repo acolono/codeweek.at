@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## CodeWeek 2020 in Österreich
+## CodeWeek 2021 in Österreich
 
 <img align="right" width="400px" src="CodeWeek_impression.jpg">
 
-Heuer findet die CodeWeek von **10.-25. Oktober 2020** statt:
+Heuer findet die CodeWeek von **09-24. Oktober 2021** statt:
 
 - [Alle CodeWeek Events in Österreich anzeigen](https://codeweek.eu/search/?q=&country_iso=AT&past=no)
 - [Neuen CodeWeek Event eintragen](http://events.codeweek.eu/add/)
@@ -34,6 +34,7 @@ Die [Europe Code Week](http://www.codeweek.eu/) ist eine europaweite Initiative,
 
 ## Die Europe CodeWeek in Zahlen
 
+- 2019: 4.200.00 Teilnehmer_innen
 - 2018: 2.700.00 Teilnehmer_innen
 - 2017: 52 Länder, 25.000 Veranstaltungen, 1.099.000 Teilnehmer_innen
 - 2016: 50 Länder, 23.000 Veranstaltungen, 968.000 Teilnehmer_innen
