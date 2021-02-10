@@ -34,8 +34,9 @@ Die [Europe Code Week](http://www.codeweek.eu/) ist eine europaweite Initiative,
 
 ## Die Europe CodeWeek in Zahlen
 
-- 2019: 4.200.00 Teilnehmer_innen
-- 2018: 2.700.00 Teilnehmer_innen
+- 2020: 3.400.000 Teilnehmer_innen
+- 2019: 4.200.000 Teilnehmer_innen
+- 2018: 2.700.000 Teilnehmer_innen
 - 2017: 52 Länder, 25.000 Veranstaltungen, 1.099.000 Teilnehmer_innen
 - 2016: 50 Länder, 23.000 Veranstaltungen, 968.000 Teilnehmer_innen
 - 2015: 46 Länder, 7.600 Veranstaltungen, 570.000 Teilnehmer_innen
