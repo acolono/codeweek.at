@@ -50,15 +50,19 @@ Die [Europe Code Week](http://www.codeweek.eu/) ist eine europaweite Initiative,
 *   Als Unternehmen oder Institution kannst du für EU Code Week Sponsor werden, selbst ein eigenes Event hosten, deine Mitarbeiter_innen einladen, an der Initiative teilzunehmen.
 *   Hast du Räumlichkeiten zur Verfügung oder betreibt du ein Coworking Space, hoste ein eigenes Event, biete deine Räumlichkeiten für EU Code Week Events an.
 
-Unterstüzt wird die Codeweek Austria von ehrenamtlichen Ambassador_innen:
+Unterstüzt wird die Codeweek Austria von folgenden Personen:
 
+Ehrenamtliche Ambassador_innen
 *   **Nico Grienauer** <a href="mailto:nico@grienauer.com">mail</a>, <a href="https://www.twitter.com/grienauer">tweet</a>
 *   **Nanna Sagbauer** <a href="mailto:nico@grienauer.com">mail</a>, <a href="https://www.twitter.com/grienauer">tweet</a>
 
+EDU Coordinators
+*   **Andreas Riedl** Ministry of Education, Science and Research / Department IT-Didactics
 
 ## Join CodeWeek Austria
 
 <a href="https://codeweek.eu/search/?q=&country_iso=AT&past=no" target="_blank">nächste Veranstaltungen in Österreich</a>  
+
 <a href="https://www.facebook.com/CodeWeekAT/" target="_blank">Facebook</a>  
 <a href="https://twitter.com/codeweekat/" target="_blank">Twitter</a>  
 
