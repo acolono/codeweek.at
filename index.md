@@ -9,7 +9,7 @@ layout: default
 Heuer findet die CodeWeek von **07-22. Oktober 2023** statt:
 
 - [Alle CodeWeek Events in Österreich anzeigen](https://codeweek.eu/search/?q=&country_iso=AT&past=no)
-- [Neuen CodeWeek Event eintragen](http://events.codeweek.eu/add/)
+- [Neuen CodeWeek Event eintragen](https://codeweek.eu/add)
 - [CodingDay.at](http://www.codingday.at/)
 
 ## Einstiegshilfen
