@@ -52,11 +52,11 @@ Die [Europe Code Week](http://www.codeweek.eu/) ist eine europaweite Initiative,
 
 Unterstüzt wird die Codeweek Austria von folgenden Personen:
 
-Ehrenamtliche Ambassador_innen
-*   **Nico Grienauer** <a href="mailto:nico@grienauer.com">mail</a>, <a href="https://www.twitter.com/grienauer">tweet</a> <a href="https://www.linkedin.com/in/grienauer/">linkedin</a>
-*   **Nanna Sagbauer** <a href="[https://www.twitter.com/grienauer](https://www.xing.com/profile/Nanna_Sagbauer)">xing</a>
+### Ehrenamtliche Ambassador_innen
+*   **Nico Grienauer** <a href="https://www.twitter.com/grienauer" target="_blank">tweet</a>, <a href="https://www.linkedin.com/in/grienauer/" target="_blank">linkedin</a>
+*   **Nanna Sagbauer** <a href="https://www.xing.com/profile/Nanna_Sagbauer" target="_blank">xing</a>
 
-EDU Coordinators
+### EDU Coordinators
 *   **Andreas Riedl** Ministry of Education, Science and Research / Department IT-Didactics
 
 ## Join CodeWeek Austria
