@@ -6,7 +6,7 @@ layout: default
 
 <img align="right" width="400px" src="CodeWeek_impression.jpg">
 
-Heuer findet die CodeWeek von **07-22. Oktober 2023** statt:
+Heuer findet die CodeWeek von **14-27. Oktober 2024** statt:
 
 - [Alle CodeWeek Events in Österreich anzeigen](https://codeweek.eu/search/?q=&country_iso=AT&past=no)
 - [Neuen CodeWeek Event eintragen](https://codeweek.eu/add)
