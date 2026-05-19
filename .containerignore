@@ -1,0 +1,11 @@
+.git/
+.gitignore
+.idea/
+.superpowers/
+docs/superpowers/
+_site/
+Gemfile.lock
+*.md
+!index.md
+!impressum.md
+!parktour_2018.md

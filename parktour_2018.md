@@ -1,82 +1,66 @@
 ---
 layout: default
+title: CodeWeek ParkTour 2018
 ---
 
-# CodeWeek ParkTour 2018
+<div class="page-content">
 
-Gratis Workshops in Wien Parks!
+<h1>CodeWeek ParkTour 2018</h1>
+<p class="page-lead">Gratis Workshops in Wiener Parks! Bei der ParkTour geht es darum, Kindern und Jugendlichen einen niederschwelligen Zugang zu den Themen Programmierung, Robotik und Digitalisierung zu ermöglichen.</p>
 
-Bei der ParkTour geht es darum Kindern und Jugendlichen einen niederschwelligen Zugang zu den Themen Programmierung, Robotik und Digitalisierung zu ermöglichen.
+<img src="{{ '/assets/images/parktour_med_2018.jpg' | relative_url }}" alt="ParkTour 2018" class="page-img-full">
 
-![Image](parktour_med_2018.jpg)
+<h2>Programmieren in Wiener Parks!</h2>
 
-## Programmieren in Wiener Parks!
- 
-Zusammen mit diversen österreichischen Initiativen bietet CodeWeek.at in der Woche vom **8. Oktober 2018** in Wiener Parks gratis Workshops rund um Programmierung, Robotik und Digitalisierung an. Das Ziel: Kinder und Jugendliche zwischen 7 und 17 für das Thema Coding zu begeistern.
+<div class="page-img-float">
+  <img src="{{ '/assets/images/ParkTour-2017.jpg' | relative_url }}" alt="ParkTour 2017">
+</div>
 
-<img align="right" width="400px" height="275px" src="ParkTour-2017.jpg">
+<p>Zusammen mit diversen österreichischen Initiativen bietet CodeWeek.at in der Woche vom <strong>8. Oktober 2018</strong> in Wiener Parks gratis Workshops rund um Programmierung, Robotik und Digitalisierung an. Das Ziel: Kinder und Jugendliche zwischen 7 und 17 für das Thema Coding zu begeistern.</p>
 
-Elektronische Medien haben als Kommunikationstools als auch Unterhaltungsinstrumente viel zu bieten. Darüberhinaus können Sie aber gerade Kinder und Jugendliche auf spannende und interessante Weise vielfältig fordern und zum analytischen Denken anregen. Im Rahmen der ParkTour haben wir eine Reihe von Angeboten ausgesucht, die visuell gestalterisch oder aktiv agierend – mit oder ohne Computer – Kinder und Jugendliche mit diesen Prozessen vertraut machen sollen. Das Verstehen von informationstechnologischen Abläufen ist gegenwärtig wie zukünftig eine Kernkompetenz bei der  logisches Denken genauso gefragt ist, wie empathisches Agieren im Zusammenhang mit dem Wirken in sozialen Medien.
+<p>Elektronische Medien haben als Kommunikationstools als auch Unterhaltungsinstrumente viel zu bieten. Darüberhinaus können Sie aber gerade Kinder und Jugendliche auf spannende und interessante Weise vielfältig fordern und zum analytischen Denken anregen. Im Rahmen der ParkTour haben wir eine Reihe von Angeboten ausgesucht, die visuell gestalterisch oder aktiv agierend – mit oder ohne Computer – Kinder und Jugendliche mit diesen Prozessen vertraut machen sollen.</p>
 
-Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die ParkTour ausgedacht und werden nach 2017 heuer zum zweiten Mal in einer Art Open-Air Veranstaltung einzelne Wiener Parks und Plätze besuchen um unsere Zelte dort aufzuschlagen. Als Partner haben wir die MA13 – Fachbereich Jugend, die die Vernetzung zu lokalen Jugendorgansiationen übernommen hat, logistisch – in der Event-Abwicklung, sowie Aufbau und Vernetzung – unterstützt uns das Team der A1 Telekom Austria.
+<p>Als Team der Codeweek-Österreich und des Vereins OLPC Austria haben wir uns die ParkTour ausgedacht und werden nach 2017 heuer zum zweiten Mal in einer Art Open-Air Veranstaltung einzelne Wiener Parks und Plätze besuchen. Als Partner haben wir die MA13 – Fachbereich Jugend, die die Vernetzung zu lokalen Jugendorganisationen übernommen hat, sowie das Team der A1 Telekom Austria.</p>
 
-## Wann und Wo
+<div style="clear:both;"></div>
 
-* **Montag, 8.10. 14-17 Uhr:** Resselpark/Karlsplatz (1040 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=VN5nRq0VHEbphFVE5NCvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002326)) *(Schlechtwetter-Variante: Postaula Stiege 2, TU Wien)* mit Stationen von:
-  * A1 “Internet für Alle”
-  * Bildungsserver Wien
-  * CoderDojo
-  * Robo Wunderkind
-  * Wunderwuzzi
-* **Dienstag, 9.10. 14-17 Uhr:** Steinbauerpark (1120 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=2PpHRtto-a0XphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10010290)) *(Schlechtwetter-Variante: Jugendtreffs Steinbauerpark)* mit Stationen von:
-  * A1 “Internet für Alle”
-  * Bildungsserver Wien
-  * CoderDojo
-  * OEG3D
-  * Wunderwuzzi
-* **Mittwoch, 10.10. 14-17 Uhr:** Kardinal-Nagl Platz (1030 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=cb2HRv1nGUbphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002296)) *(Schlechtwetter-Variante: JUVIVO 3, Erdbergstraße 101, 1030 Wien)* mit Stationen von:
-  * A1 “Internet für Alle”
-  * Bildungsserver Wien
-  * CoderDojo
-  * Spielend Programmieren
-  * Wunderwuzzi
-* **Donnerstag, 11.10. 14-17 Uhr:** Franklinstraße / Ecke Fahrbachgasse (1210 Wien) ([Karte](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=mI2FRlbUe0YR-aoFEHjjiQ-a5Rphlnqnnkur2pH4Oprw-b-b)) *(Schlechtwetter-Variante: Area 52, Eingang Freytaggasse/Wedekindgasse, 1210 Wien)* mit Stationen von:
-  * A1 “Internet für Alle”
-  * Bildungsserver Wien
-  * CoderDojo
-  * TechnikBasteln
-  * Wunderwuzzi
+<h2>Wann und Wo</h2>
 
-## Partner und Stationen
+<ul>
+  <li><strong>Mo. 8.10. 14–17 Uhr:</strong> Resselpark/Karlsplatz, 1040 Wien — <a href="https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=VN5nRq0VHEbphFVE5NCvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002326">Karte</a><br><em>Schlechtwetter: Postaula Stiege 2, TU Wien</em><br>Stationen: A1, Bildungsserver Wien, CoderDojo, Robo Wunderkind, Wunderwuzzi</li>
+  <li><strong>Di. 9.10. 14–17 Uhr:</strong> Steinbauerpark, 1120 Wien — <a href="https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=2PpHRtto-a0XphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10010290">Karte</a><br><em>Schlechtwetter: Jugendtreffs Steinbauerpark</em><br>Stationen: A1, Bildungsserver Wien, CoderDojo, OEG3D, Wunderwuzzi</li>
+  <li><strong>Mi. 10.10. 14–17 Uhr:</strong> Kardinal-Nagl Platz, 1030 Wien — <a href="https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=cb2HRv1nGUbphNVD5NAvQ-a5Rphlnqnnkur2pH4Oprw-b-b&bmadr=10002296">Karte</a><br><em>Schlechtwetter: JUVIVO 3, Erdbergstraße 101</em><br>Stationen: A1, Bildungsserver Wien, CoderDojo, Spielend Programmieren, Wunderwuzzi</li>
+  <li><strong>Do. 11.10. 14–17 Uhr:</strong> Franklinstraße / Ecke Fahrbachgasse, 1210 Wien — <a href="https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=mI2FRlbUe0YR-aoFEHjjiQ-a5Rphlnqnnkur2pH4Oprw-b-b">Karte</a><br><em>Schlechtwetter: Area 52, Eingang Freytaggasse/Wedekindgasse</em><br>Stationen: A1, Bildungsserver Wien, CoderDojo, TechnikBasteln, Wunderwuzzi</li>
+</ul>
 
-* [A1 “Internet für Alle”](https://a1internetfueralle.at/home/): "Wir vermitteln dir die Grundbegriffe des Codings mit einem coolen Programmierspiel - offline ohne Computer, aber mit Verkleidungen und hohem Spaßfaktor!"
-* [Bildungsserver Wien](http://bildungsserver.wien): "Unsere Blue Bot-Lernroboter führen dich in die Welt des Programmierens ein. Löse knifflige Aufgaben und lerne dabei Wien besser kennen."
-* [CoderDojo Wien](http://wien.coderdojo.net/): "Das CoderDojo ist ein Club für Kinder und Jugendliche zwischen 8 und 17 Jahren, in dem sie Technik und Programmieren lernen können. In regelmäßigen Treffen werden verschiedene Übungen gemacht. Wenn du zwischen 8 und 17 Jahre alt bist, komm vorbei."
-* [OEG3D](https://www.oeg3d.at): "Bei uns kann man sein eigenes Schmuckstück am Computer erstellen, anschließend ausdrucken und so erleben, wie die Produktion der Zukunft aussehen kann."
-* [Robo Wunderkind](https://robowunderkind.com/de/): "Mit Robo Wunderkind ist das Bauen und Kodieren von echten Robotern ein Kinderspiel. Durch eine taktile Hardware und eine intuitive Software können dadurch Kindern die Grundlagen des Kodierens und der Robotik auf einfache und spielerische Art und Weise vermittelt werden."
-* [Spielend Programmieren](http://spielend-programmieren.at): "Einführung in die Computerspieleprogrammierung mit der Programmiersprache Python. Geeignet für Kinder ab 10 Jahre die bereits Erfahrung im Umgang mit der Tastatur haben. Es wird empfohlen einen eigenen USB-Stick mitzubringen, um die selbst erstellten Programme mit nach Hause nehmen zu können".
-* [TechnikBasteln](http://www.technikbasteln.net/): "Wolltest du schon immer wissen wie ein Laptop von innen aussieht? Bei uns kannst du einen zerlegen und - idealerweise - danach wieder zusammenbauen."
-* [Wunderwuzzi](http://www.wunderwuzzi.at/): "Bau dir deinen eigenen kleinen Wunderwuzzi Zahnbürsten Roboter, den du nach Hause mitnehmen kannst."
+<h2>Partner und Stationen</h2>
 
-## Sponsoring Partner
+<ul>
+  <li><a href="https://a1internetfueralle.at/home/" target="_blank">A1 „Internet für Alle"</a>: Grundbegriffe des Codings mit einem coolen Programmierspiel — offline, ohne Computer, aber mit Verkleidungen und hohem Spaßfaktor.</li>
+  <li><a href="http://bildungsserver.wien" target="_blank">Bildungsserver Wien</a>: Blue Bot-Lernroboter führen in die Welt des Programmierens ein.</li>
+  <li><a href="http://wien.coderdojo.net/" target="_blank">CoderDojo Wien</a>: Club für Kinder und Jugendliche zwischen 8 und 17 Jahren zum Lernen von Technik und Programmieren.</li>
+  <li><a href="https://www.oeg3d.at" target="_blank">OEG3D</a>: Eigenes Schmuckstück am Computer erstellen und ausdrucken — Produktion der Zukunft erleben.</li>
+  <li><a href="https://robowunderkind.com/de/" target="_blank">Robo Wunderkind</a>: Bauen und Kodieren von echten Robotern für Kinder.</li>
+  <li><a href="http://spielend-programmieren.at" target="_blank">Spielend Programmieren</a>: Einführung in die Computerspieleprogrammierung mit Python, ab 10 Jahre.</li>
+  <li><a href="http://www.technikbasteln.net/" target="_blank">TechnikBasteln</a>: Laptop zerlegen und wieder zusammenbauen.</li>
+  <li><a href="http://www.wunderwuzzi.at/" target="_blank">Wunderwuzzi</a>: Eigenen Zahnbürsten-Roboter bauen und mitnehmen.</li>
+</ul>
 
-[<img src="ma13-logo.png">](https://www.wien.gv.at/sozialinfo/content/en/10/InstitutionDetail.do?it_1=2099565)
+<h2>Sponsoring Partner</h2>
 
-[<img src="meet-and-code-logo.png">](https://www.meet-and-code.org/at/de/)
+<div class="partner-logos">
+  <a href="https://www.wien.gv.at/sozialinfo/content/en/10/InstitutionDetail.do?it_1=2099565" target="_blank"><img src="{{ '/assets/images/ma13-logo.png' | relative_url }}" alt="MA13"></a>
+  <a href="https://www.meet-and-code.org/at/de/" target="_blank"><img src="{{ '/assets/images/meet-and-code-logo.png' | relative_url }}" alt="Meet and Code"></a>
+</div>
 
-## Jugendeinrichtungen / Kooperationspartner:
+<h2>Jugendeinrichtungen / Kooperationspartner</h2>
 
-* Area 52
-* Fairplay
-* JIM
-* Jugendtreff Steinbauerpark
-* Juvivo 3
-* karlsplatz.org
-* Mobile Jugendarbeit Donaufeld
-* TU Wien (bei Schlechtwetter)
+<p>Area 52 · Fairplay · JIM · Jugendtreff Steinbauerpark · Juvivo 3 · karlsplatz.org · Mobile Jugendarbeit Donaufeld · TU Wien</p>
 
-## Rückfragehinweis
+<h2>Rückfragehinweis</h2>
 
-Mag.ª Andrea Mayr-Stalder, info@codeweek.at, (Tel.: +43 699 11098878)
+<p>Mag.ª Andrea Mayr-Stalder, <a href="mailto:info@codeweek.at">info@codeweek.at</a>, Tel.: +43 699 11098878</p>
 
-[back](./)
+<p><a href="./" class="btn-outline" style="display:inline-block; margin-top:16px;">← Zurück zur Startseite</a></p>
+
+</div>

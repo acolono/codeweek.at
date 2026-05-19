@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+# codeweek.at
 
-You can use the [editor on GitHub](https://github.com/acolono/codeweek.at/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Website der EU Code Week Austria — [codeweek.at](https://codeweek.at)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gebaut mit Jekyll und gehostet auf GitHub Pages. Bei jedem Push auf `master` wird die Seite automatisch neu gebaut.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Lokale Vorschau mit Apple Container
 
-```markdown
-Syntax highlighted code block
+Voraussetzung: [Apple Container](https://github.com/apple/container) ist installiert.
 
-# Header 1
-## Header 2
-### Header 3
+### 1. Container-System starten
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bash
+container system start
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 2. Image bauen
 
-### Jekyll Themes
+```bash
+container build --tag codeweek-at .
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acolono/codeweek.at/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Dieser Schritt installiert Ruby, Jekyll und alle Abhängigkeiten im Container. Dauert beim ersten Mal 2–3 Minuten.
 
-### Support or Contact
+### 3a. Container starten (statisch)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```bash
+container run --rm -p 4000:4000 --name codeweek codeweek-at
+```
+
+### 3b. Container starten mit Live-Reload (empfohlen für Entwicklung)
+
+Dateien vom Host werden live in den Container gemountet — Jekyll erkennt Änderungen an `.md`-Dateien und CSS automatisch und baut neu. Einfach Datei speichern, Browser-Tab neu laden.
+
+```bash
+container run --rm -p 4000:4000 \
+  -v /Users/nicogrienauer/Projects/codeweek.at:/site \
+  --name codeweek codeweek-at
+```
+
+### 4. Im Browser öffnen
+
+```
+http://localhost:4000
+```
+
+### Container stoppen
+
+`Ctrl+C` im Terminal — oder in einem anderen Tab:
+
+```bash
+container stop codeweek
+```
+
+### Image neu bauen
+
+Nur nötig wenn sich `Gemfile` ändert (neue Gems). Für Markdown, CSS und Layouts reicht der Live-Reload-Modus.
+
+```bash
+container build --tag codeweek-at --no-cache .
+```
+
+---
+
+## Inhalt bearbeiten
+
+- **Startseite:** `index.md`
+- **Styles:** `assets/css/style.scss`
+- **Layout (Nav, Footer):** `_layouts/default.html`
+
+Im Live-Reload-Modus (3b) werden Änderungen automatisch erkannt.
+
+## Deployment
+
+Push auf `master` → GitHub Pages baut und deployed automatisch.
